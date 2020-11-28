@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "630636488626",
+    "firebase_url": "https://agendamento-718a1.firebaseio.com",
+    "project_id": "agendamento-718a1",
+    "storage_bucket": "agendamento-718a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630636488626:android:0868f0456e84834553a6ab",
+        "android_client_info": {
+          "package_name": "com.jilly.marquemeuhorario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630636488626-uvj4vp5kg3ds9hh415h753c9t8pcjtbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jilly.marquemeuhorario",
+            "certificate_hash": "8ebf301ba4bb1aa6c522610228cfc6a44ce210b6"
+          }
+        },
+        {
+          "client_id": "630636488626-9nrk66mpmrse1756d0sr8vd6crorkjd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ZuRPiv6LlBaX_jPrShJVaDnlQg7Uvck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630636488626-9nrk66mpmrse1756d0sr8vd6crorkjd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
